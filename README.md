@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classifier (CNN + Gradio)
+   # CIFAR-10 Image Classifier (CNN + Gradio)
 
 A Convolutional Neural Network that classifies images into 10 categories, deployed as an interactive web app using Gradio.
 
